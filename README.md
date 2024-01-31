@@ -1,6 +1,6 @@
   
 Hi there! 👋 I'm Gowrav, a passionate web developer based in  Tumkur. I love learning new things, and I'm always eager to  learn,understand new trends in IT field. 
-I have a background in  Computer Science stream, where I gained expertise in  C++,HTML,CSS,FIGMA,JS. Over the years, I've had the opportunity to work on  many projects.
+I have a background in  Computer Science stream, where I gained expertise in  C++,HTML,CSS,FIGMA,JS,React JS,Node JS and Responsive webdesign. Over the years, I've had the opportunity to work on  many projects.
 I'm always open to connecting with like-minded individuals. If you share similar interests or have exciting projects in mind, feel free to reach out. 
 
 - **Email:**  gowravbabu23gmail.com
